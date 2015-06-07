@@ -10,6 +10,7 @@ Legends of Dota - Auto-installer
  - Refer to the Game Server list to join games
 
 ###Connecting to a source1 server###
+ - MAKE SURE YOU START DOTA 2 FIRST and then:
  - Visit `steam://connect/lod.ash47.net:27016` in your browser
  - If you do not see the standard `Please wait while we waste your time` screen, you have installed Legends of Dota incorrectly, ensure `dota 2 beta/dota/addons/lod/addoninfo.txt` exists. Ensure you restarted dota 2.
 
