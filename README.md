@@ -9,11 +9,16 @@ Legends of Dota - Auto-installer
  - Close the Dota 2 client to finish installation.
  - If you do not see the standard `Please wait while we waste your time` screen, you have installed Legends of Dota incorrectly. Ensure you restarted dota 2.
  - Make sure you launch Dota 2 BEFORE attempting to connect to server.
- - Paste the server link and launch from browser: **steam://connect/lod.noip.me:1337**
+ - Paste the server link and launch from browser: **steam://connect/lod.noip.me:1337** (Full list below)
 
 ###List of public source1 servers###
 - Unofficial
   - [EU] Veroalla **steam://connect/lod.noip.me:1337**
+  - [EU] Veroalla **steam://connect/lod.noip.me:1338**
+  - [EU] Veroalla **steam://connect/lod.noip.me:1339**
+  - [EU] Veroalla **steam://connect/lod.noip.me:1340**
+  - [EU] Veroalla **steam://connect/lod.noip.me:1341**
+  - [EU] Veroalla **steam://connect/lod.noip.me:1342**
 
 ###FAQ & Info###
  - You will be put onto the team with the least players, or radiant if they have the same number of players
